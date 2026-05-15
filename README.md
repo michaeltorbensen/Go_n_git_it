@@ -18,4 +18,6 @@ The `code` folder includes all code for linear models.
 The `data` folder includes all data files for linear model code. 
 
 ## Rendered output
+
+The rendered output for the sonadora model is [https://github.com/michaeltorbensen/Go_n_git_it/blob/main/code/sonadora-temperature-example.pdf]
 The rendered output for the abalone linear model is [https://github.com/michaeltorbensen/Go_n_git_it/blob/main/code/abalone-example.pdf]
