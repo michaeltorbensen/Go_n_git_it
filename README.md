@@ -8,16 +8,14 @@ All READMEs for this class should have the following sections:
 
 ## General information
 
-What is this repo for?
+This repo procides examples of linear models using two datasets 
 
-Whose repo is it? Who is contributing to it?
+This is a fork from the ENVS-193DS-2026 organization 
 
 ## Data and file information
 
-What files are there?
-
-What code is there, and what does it do?
+The `code` folder includes all code for linear models. 
+The `data` folder includes all data files for linear model code. 
 
 ## Rendered output
-
-Link to the rendered output. Make sure it is a **working url**. You can test this by sharing the url with someone else to open on their computer - if it doesn't work, that means your GitHub pages set up didn't work.
+The rendered output for the abalone linear model is [https://github.com/michaeltorbensen/Go_n_git_it/blob/main/code/abalone-example.pdf]
