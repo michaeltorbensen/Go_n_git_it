@@ -115,7 +115,7 @@ plot(temperature_model) # display diagnostic plots for model
 ```{r}
 #| label: temperature-model-summary
 
-summary(temperature_model)
+summary(temperature_model) # more information about the model 
 
 ```
 
