@@ -169,7 +169,7 @@ ggpredict(
 
 How would you interpret this?  
 
-**insert your response here**
+At pH = 8, the model predicts change in abalone shell SA to be 5.36/day (mm^2^ d^-1^). 
 
 ### Visualizing model predictions and data
 
