@@ -93,8 +93,8 @@ ggplot(data = sonadora_sum,
 
 # model
 temperature_model <- lm(
-  mean_temp_c ~ elevation_m, # formula: response ~ predictor
-  data = sonadora_sum # data frame
+  mean_temp_c ~ elevation_m, # formula: change in mean temp as a function of elevation 
+  data = sonadora_sum # data frame : sum of Sonadora data 
   )
 
 ```
